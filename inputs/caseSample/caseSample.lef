@@ -1,0 +1,21 @@
+MACRO c5
+     SIZE 23.4 BY 67.5 ;
+END c5
+ 
+MACRO c3
+     SIZE 60.5 BY 40 ;
+END c3
+ 
+MACRO c4
+     SIZE 125 BY 150 ;
+END c4
+ 
+MACRO c1
+     SIZE 40 BY 90 ;
+END c1
+ 
+MACRO c2
+     SIZE 22.5 BY 68.5 ;
+END c2
+
+END LIBRARY

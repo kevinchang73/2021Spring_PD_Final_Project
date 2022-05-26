@@ -1,0 +1,35 @@
+VERSION 5.7 ;
+DESIGN sample_case ;
+UNITS DISTANCE MICRONS 1000 ;
+
+DIEAREA ( 50000 0 ) ( 50000 20000 ) ( 0 20000 ) ( 0 300000 ) ( 200000 300000 ) 
+        ( 200000 250000 ) ( 400000 250000 ) ( 400000 0 ) ;
+
+COMPONENTS 11 ;
+   - A1/m1 c5 
+      + FIXED ( 0 20000 ) N ;
+   - A2/m1 c4 
+      + FIXED ( 275000 100000 ) N ;
+   - A2/m2 c1 
+      + PLACED ( 260000 20000 ) N ;
+   - A2/m3 c1 
+      + PLACED ( 290000 40000 ) N ;
+   - A2/m4 c1 
+      + PLACED ( 320000 30000 ) N ;
+   - A3/m1 c3 
+      + PLACED ( 59500 115000 ) N ;
+   - A3/m2 c3 
+      + PLACED ( 110000 110000 ) N ;
+   - A3/m3 c3 
+      + PLACED ( 69500 135000 ) N ;
+   - A3/m4 c3 
+      + PLACED ( 100000 140000 ) N ;
+   - A4/m1 c3 
+      + PLACED ( 140000 270000 ) N ;
+   - A4/m2 c2 
+      + PLACED ( 190000 240000 ) N ;
+END COMPONENTS
+
+
+END DESIGN
+

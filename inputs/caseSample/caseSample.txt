@@ -1,0 +1,6 @@
+powerplan_width_constraint 30
+minimum_channel_spacing_between_macros_constraint 10
+buffer_area_reservation_extended_distance_constraint 70
+weight_alpha 1
+weight_beta 8
+
