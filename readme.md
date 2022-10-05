@@ -6,19 +6,19 @@ Please visit https://kevinchang73.github.io/projects/ for detailed information.
 
 ## HOW TO COMPILE:
 
-Under the b07901056_final_project/ directory, type: 
+Under the root directory, type: 
 	`make`
 
 ## HOW TO RUN:
 
-Under the b07901056_final_project/ directory, type: 
+Under the root directory, type: 
 	`./bin/macroLegalizer <DEF file> <LEF file> <constraint file> <output file>`
 
 For example, `./bin/macroLegalizer inputs/case1/case1.def inputs/case1/case1.lef inputs/case1/case1.txt outputs/case1.out`
  
 ## HOW TO VISUALIZE:
 
-After running the program, under the b07901056_final_project/ directory, type: 
+After running the program, under the root directory, type: 
 	`gnuplot result.plt`
 
 ## NOTICE:
