@@ -2,7 +2,7 @@
 
 Macro legalization is an important step in today’s placement flow. In this work, a constraint-graph based macro legalization algorithm flow which combines iterative refinement and simulated annealing is applied to solve the macro legalization problem. Experimental result shows the flow could achieve a balance between cost and runtime.
 
-Please visit https://kevinchang73.github.io/projects/ for detailed information.
+Please visit https://kevinchang73.github.io/ for detailed information.
 
 ## HOW TO COMPILE:
 
